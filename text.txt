@@ -1,10 +1,29 @@
 
+
+first one 
+============
+
 git init
 
-git add . 
+git status
+ git add .
 
-git commit -m "initial commit
+git commit -m "initial commit"
 
-git remote add origin https://github.com/rashakh122/test2.git
+
+git remote add origin https://github.com/rashakh122/pro2.git
 
 git push origin master
+
+
+======================
+updata    
+
+git status
+
+ git add .
+
+git commit -m "initial commit"
+
+git push origin master
+
